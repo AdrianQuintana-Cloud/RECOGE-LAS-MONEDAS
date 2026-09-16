@@ -16,10 +16,16 @@ Bibliotecas utilizadas
 
 
 Requisitos
-----------
-- Python 3
+---------
+- Python 3.13
 - Pygame Zero
-- Carpetas de recursos del proyecto (imágenes, sonidos, música y fuente)
+
+
+Instalación
+---------
+1. Instalar Python 3.13.
+2. Instalar Pygame Zero:
+   python -m pip install pgzero
 
 
 Ejecución
