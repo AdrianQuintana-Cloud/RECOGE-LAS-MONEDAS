@@ -17,25 +17,30 @@ Bibliotecas utilizadas
 
 Requisitos
 ---------
-- Python 3.13
+- Python 3.13.15
 - Pygame Zero
 
 
 Instalación
 ---------
-1. Instalar Python 3.13.
+1. Instalar Python 3.13.15
 2. Instalar Pygame Zero:
    python -m pip install pgzero
 
 
 Ejecución
 ---------
-1. Abrir una terminal.
-2. Ubicarse en la carpeta del proyecto.
-3. Ejecutar:
+1. Si tienes varias versiones de Python, asegúrate de usar la versión 3.13.15
+	
+	En VSCode: Ctrl + Shift + p
+	Selecciona el intérprete que corresponda a Python 3.13
 
-       Opción 1: pgzrun juego.py
-       Opción 2: python juego.py
+2. Abrir una terminal.
+3. Ubicarse en la carpeta del proyecto.
+4. Ejecutar:
+
+	Opción 1: pgzrun juego.py
+	Opción 2: python juego.py
 
 La ventana del juego tiene una resolución de 800 x 450 píxeles.
 
